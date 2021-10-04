@@ -1,6 +1,6 @@
 This was a real world project with real world impact. Due to the nature of it, some areas of the model have been changed and all numbers shown are from a fake database.
 
-You can download the .twbx and use Tableau Reader to interact with it, but below are some screen shots of the project. I made this to be dynamic and able to be filtered in many different ways.
+You can download the .twbx and use Tableau Reader to interact with it, but below are some screen shots of the project. I made this to be dynamic and it can be filtered in many different ways.
 
 ![image](https://user-images.githubusercontent.com/37810067/135860514-f00fd53c-06e8-4054-9a1b-f185ba9962a8.png)
 
