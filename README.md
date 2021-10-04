@@ -1,6 +1,9 @@
-This was a real world project with real world impact. Due to the nature of it, some areas of the model have been changed and all numbers shown are from a fake database.
+This is based on a real world project with real world impact. Due to the nature of it, some areas of the model have been changed and all numbers shown fake.
 
-You can download the .twbx and use Tableau Reader to interact with it, but below are some screen shots of the project. I made this to be dynamic and it can be filtered in many different ways.
+I created this based off of a need to visualize a large dataset for my organization that previously relied on slide decks using PowerPoint. It was my first time interacting with Tableau and I taught myself how to use the software while building this. 
+
+
+Below are some screen shots of the project. I made this to be vary dynamic and it can be filtered any way the user desires.
 
 ![image](https://user-images.githubusercontent.com/37810067/135860514-f00fd53c-06e8-4054-9a1b-f185ba9962a8.png)
 
