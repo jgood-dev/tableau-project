@@ -1,4 +1,4 @@
-This is based on a real world project with real world impact. Due to the nature of it, some areas of the model have been changed and all numbers shown fake.
+This is based on a real world project with real world impact. Due to the nature of it, the actual .twb/.twbx is not uploaded, some areas of the model have been changed, and all numbers shown fake. 
 
 I created this based off of a need to visualize a large dataset for my organization that previously relied on slide decks using PowerPoint. It was my first time interacting with Tableau and I taught myself how to use the software while building this. 
 
